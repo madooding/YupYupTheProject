@@ -66,7 +66,7 @@ void print_credit(const ALLEGRO_FONT *font, const ALLEGRO_FONT *bigfont){
     currentY += (fontsize + 5);
     al_draw_text(font, al_map_rgb(255, 255, 255), 180, currentY, ALLEGRO_ALIGN_LEFT, "Pipat Saweay                    57070080");
     currentY += (fontsize + 5);
-    al_draw_text(font, al_map_rgb(255, 255, 255), 180, currentY, ALLEGRO_ALIGN_LEFT, "Phakphum xxxxxxxx         57070088");
+    al_draw_text(font, al_map_rgb(255, 255, 255), 180, currentY, ALLEGRO_ALIGN_LEFT, "Phakphum Charatphan        57070088");
     currentY += (fontsize + 5);
     al_draw_text(font, al_map_rgb(255, 255, 255), 180, currentY, ALLEGRO_ALIGN_LEFT, "Sirirach Junta                     57070112   ");
     currentY += (fontsize + 5);
