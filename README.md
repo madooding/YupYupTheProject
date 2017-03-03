@@ -1,7 +1,7 @@
 # Ans of heart
 
 ## About
-My Project in C Programming subject when i was studying in year 1 semester 2
+This is my project in C Programming subject when i was studying in year 1 semester 2
 Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang
 
 ## Instructions
