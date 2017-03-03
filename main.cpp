@@ -229,8 +229,8 @@ int main(int argc, char **argv)
     al_set_window_title(display, "Ans of Heart : C project."); 
 
     //Keyboard initialize
-
     al_install_keyboard();
+    
     // Image initialize
     al_init_image_addon();
     ALLEGRO_BITMAP *main_bg = al_load_bitmap("images/main_bg.png");
